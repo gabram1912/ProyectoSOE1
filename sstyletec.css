@@ -1,0 +1,70 @@
+*{
+	margin: 0px
+	padding: 0px;
+}
+
+body{
+	font-family: helvetica;
+	background-image: url(fondo2.jpg);
+	font-size: 16px;
+	text-align: center;}
+
+#menu{
+	margin-top: 4px;
+}
+
+#menu li{
+	display: inline-block;
+}
+
+#menu a{
+	text-decoration: none;
+	color: white;
+	vertical-align: center;
+	padding: 20px;
+	margin:5px;
+	background: #800000;
+}
+
+
+ #menu a:hover{
+	background: white;
+	border : 1px #800000 solid;
+	border-radius: 1px;
+	color: #800000;
+}
+
+iframe{
+	width: 980px;
+	margin-top: 20px;
+	height: 600px;
+}
+
+h1{
+	text-align: center;	
+	color: white;
+}
+
+body{
+	border : 1px #800000 solid;
+	border-radius: 1px;
+}
+
+#ex{
+	border: 0px;
+	border-radius: 0px;
+}
+
+#orientacion{
+	display: inline-block;
+	vertical-align: middle;
+	padding: 2px;
+}
+
+#equipo{
+	color: white;
+	text-align: bottom;
+	font-size: 30px; 
+
+
+
